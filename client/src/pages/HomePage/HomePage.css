@@ -1,0 +1,13 @@
+body {
+    background-color:blanchedalmond;
+    
+}
+body img {
+    border-radius: 100px;
+    box-shadow: 20;
+}
+body button {
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+}
